@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressExpress.Api", "Api\DressExpress.Api.csproj", "{14C77A69-18DC-4A82-BA8F-DA8BF022F8AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressExpress.Infrastucture", "Infrastructure\DressExpress.Infrastucture.csproj", "{51BF86E7-0083-4579-9F0D-9CE5A4A22AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DressExpress.Domain", "Domain\DressExpress.Domain.csproj", "{988A0AF2-23A0-48E1-8DB1-925AC011859F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14C77A69-18DC-4A82-BA8F-DA8BF022F8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14C77A69-18DC-4A82-BA8F-DA8BF022F8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14C77A69-18DC-4A82-BA8F-DA8BF022F8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14C77A69-18DC-4A82-BA8F-DA8BF022F8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51BF86E7-0083-4579-9F0D-9CE5A4A22AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51BF86E7-0083-4579-9F0D-9CE5A4A22AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51BF86E7-0083-4579-9F0D-9CE5A4A22AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51BF86E7-0083-4579-9F0D-9CE5A4A22AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988A0AF2-23A0-48E1-8DB1-925AC011859F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988A0AF2-23A0-48E1-8DB1-925AC011859F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988A0AF2-23A0-48E1-8DB1-925AC011859F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988A0AF2-23A0-48E1-8DB1-925AC011859F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
