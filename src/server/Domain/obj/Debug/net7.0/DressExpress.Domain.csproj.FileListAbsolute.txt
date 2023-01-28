@@ -1,0 +1,12 @@
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/bin/Debug/net7.0/DressExpress.Domain.deps.json
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/bin/Debug/net7.0/DressExpress.Domain.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/bin/Debug/net7.0/DressExpress.Domain.pdb
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.csproj.AssemblyReference.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.AssemblyInfoInputs.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.AssemblyInfo.cs
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.csproj.CoreCompileInputs.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/refint/DressExpress.Domain.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/DressExpress.Domain.pdb
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Domain/obj/Debug/net7.0/ref/DressExpress.Domain.dll

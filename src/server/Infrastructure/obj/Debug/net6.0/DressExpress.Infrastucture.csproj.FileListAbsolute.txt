@@ -1,0 +1,12 @@
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/bin/Debug/net6.0/DressExpress.Infrastucture.deps.json
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/bin/Debug/net6.0/DressExpress.Infrastucture.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/bin/Debug/net6.0/DressExpress.Infrastucture.pdb
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.csproj.AssemblyReference.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.AssemblyInfoInputs.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.AssemblyInfo.cs
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.csproj.CoreCompileInputs.cache
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/refint/DressExpress.Infrastucture.dll
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/DressExpress.Infrastucture.pdb
+/Users/rogeliovillarreal/Projects/Dress-Express/src/server/Infrastructure/obj/Debug/net6.0/ref/DressExpress.Infrastucture.dll
